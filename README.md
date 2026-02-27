@@ -1,3 +1,11 @@
+> **⚠️ This library is no longer actively maintained.**
+>
+> It is recommended to migrate to [`react-native-enriched-markdown`](https://github.com/software-mansion-labs/react-native-enriched-markdown) — a high-performance, fully native Markdown renderer built with Fabric (New Architecture). It uses [md4c](https://github.com/mity/md4c) for fast, standards-compliant Markdown parsing and offers CommonMark and GFM support, native text selection, accessibility, RTL support, and more.
+>
+> ```sh
+> yarn add react-native-enriched-markdown
+> ```
+
 # React Native Markdown Display [![npm version](https://badge.fury.io/js/react-native-markdown-display.svg)](https://badge.fury.io/js/react-native-markdown-display) [![Known Vulnerabilities](https://snyk.io/test/github/iamacup/react-native-markdown-display/badge.svg)](https://snyk.io/test/github/iamacup/react-native-markdown-display)
 
 It a 100% compatible CommonMark renderer, a react-native markdown renderer done right. This is __not__ a web-view markdown renderer but a renderer that uses native components for all its elements. These components can be overwritten and styled as needed.
